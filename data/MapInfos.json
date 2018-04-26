@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
 {"id":2,"expanded":false,"name":"ストーリー１","order":52,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":3,"expanded":false,"name":"編成所","order":13,"parentId":4,"scrollX":1084,"scrollY":610},
-{"id":4,"expanded":true,"name":"ペンギン街","order":12,"parentId":9,"scrollX":1092,"scrollY":688},
+{"id":4,"expanded":true,"name":"ペンギン街","order":12,"parentId":9,"scrollX":1068,"scrollY":672},
 {"id":5,"expanded":false,"name":"ペンギンマート","order":14,"parentId":4,"scrollX":1084,"scrollY":610},
 {"id":6,"expanded":true,"name":"うんこもりもり森","order":2,"parentId":0,"scrollX":1084,"scrollY":610},
 {"id":7,"expanded":false,"name":"うんこもりもり森２","order":3,"parentId":6,"scrollX":1084,"scrollY":610},
